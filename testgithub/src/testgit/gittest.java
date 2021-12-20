@@ -5,7 +5,7 @@ public class gittest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int a[]= {55,45,25,88,100};
+		int a[]= {55,45,25};
 		int c;
 		
 		
